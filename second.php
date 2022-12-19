@@ -1,7 +1,7 @@
 <?php
-$password = $_GET["password"];
+$paragrafo = $_POST["message"];
 
-$paragrafo = $_GET["messaggio"];
+$password = $_POST["password"];
 
 ?>
 

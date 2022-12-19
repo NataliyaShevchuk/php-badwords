@@ -16,10 +16,10 @@
             <div class="col-md-6">
                 <h1 class="text-center mb-3"> PHP 0.1</h1>
 
-            <form action="second.php" method="GET">
+            <form action="second.php" method="POST">
                 <div class="mb-3">
                     <label for="">Paragrafo</label>
-                    <input class="form-control" type="text" name="messaggio">
+                    <input class="form-control" type="text" name="message">
                 </div>
 
                 <div class="mb-3">
